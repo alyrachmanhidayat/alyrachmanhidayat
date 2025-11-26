@@ -6,7 +6,7 @@ I'm a Software Engineering student at Universitas Pendidikan Indonesia (UPI) wit
 
 ## 🌐 Socials:
 
-[![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/alyrhmn_) [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:alyrahman2003@gmail.com) [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](www.linkedin.com/in/aly-rachman-hidayat)
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/alyrhmn_) [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:alyrahman2003@gmail.com) [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/aly-rachman-hidayat/)
 
 ## 💻 Tech Stack:
 <p align="center">
